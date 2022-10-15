@@ -1,6 +1,8 @@
 # Next.js (for obsidian menu)
 <h2 style="background-color: red; color: white">I WILL NOT COVER NEXTJS FOR BACKEND</h2>
+
 ## create project
+
 ```bash
 npx create-next-app@latest --typescript
 # or
